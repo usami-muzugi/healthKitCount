@@ -1,4 +1,4 @@
-package cn.ximcloud.healthKitCount;
+package cn.ximcloud.applehealthkitwordcount;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
